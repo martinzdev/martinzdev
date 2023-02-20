@@ -9,6 +9,17 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://instagram.com/luscazi" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-luscazi-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -29,19 +40,6 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=luscazi&show_icons=true&theme=vision-friendly-dark" alt="luscazi's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscazi&layout=compact&theme=vision-friendly-dark" alt="luscazi most languages"/>
-</p>
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/luscazi" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luscazi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/luscazi" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luscazi-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
 <!--
