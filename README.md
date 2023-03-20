@@ -5,7 +5,7 @@
 
 - 🔥 Junior Web Developer
 
-- 🔭 I’m currently working at [RUSH](https://discord.gg/rushp1)
+- 🔭 CEO & Founder of [RUSH](https://discord.gg/rushp1)
 
 - ⚡ Fun fact **Oneye 😜**
 
