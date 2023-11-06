@@ -13,7 +13,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://instagram.com/httpmartinz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luscazi-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-httpmartinz-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
