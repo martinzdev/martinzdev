@@ -40,13 +40,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luscazi&show_icons=true&theme=vision-friendly-dark" alt="luscazi's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscazi&layout=compact&theme=vision-friendly-dark" alt="luscazi most languages"/>
-</p>
-
 <!--
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
