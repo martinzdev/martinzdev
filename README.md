@@ -8,15 +8,6 @@
 - 🔭 CEO & Founder of [RUSH](https://discord.gg/rushp1)
 
 - ⚡ Fun fact **Oneye 😜**
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://instagram.com/httpmartinz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-httpmartinz-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
