@@ -3,7 +3,7 @@
 -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Martins</h1>
 
-- 🔥 Junior Web Developer
+- 🔥 Junior Full-Stack Developer
 
 - 🔭 CEO & Founder of [RUSH](https://discord.gg/rushp1)
 
