@@ -22,8 +22,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![CFX Typescript](https://img.shields.io/badge/-CFX|Typescript-05122A?style=flat&logo=fivem)&nbsp;
-![CFX Lua](https://img.shields.io/badge/-CFX|Lua-05122A?style=flat&logo=fivem)&nbsp;
+![CFX FiveM](https://img.shields.io/badge/-CFX_FiveM-05122A?style=flat&logo=fivem)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
