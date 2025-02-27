@@ -7,8 +7,6 @@
 
 - 🔭 CEO & Founder of [RUSH](https://discord.gg/rushp1)
 
-- ⚡ Fun fact **Oneye 😜**
-
 ## 🛠 &nbsp;Tech Stack
 
 
