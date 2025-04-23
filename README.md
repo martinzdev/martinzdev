@@ -24,9 +24,3 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-<div>
-  <a href="https://github.com/martinzdev">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=martinzdev&hide=stars,issues&theme=dark&show_icons=true"/>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinzdev&theme=dark&layout=compact"/>
-</div>
