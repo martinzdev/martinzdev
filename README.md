@@ -9,7 +9,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
