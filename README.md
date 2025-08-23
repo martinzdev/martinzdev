@@ -1,27 +1,33 @@
-<!--
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
--->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Martins</h1>
+# Hi there! 👋 I'm Lucas Martins
 
-- 🔥 Full-Stack Developer
+## 🚀 Software Engineer & Architect | Entrepreneur
 
-- 🔭 CEO & Founder of [RUSH](https://discord.gg/rushp1)
+**Founder of RUSH** (130k+ users, 6-figure revenue) | Full-Stack Developer with **4+ years** creating innovative tools and robust systems.
 
-## 🛠 &nbsp;Tech Stack
+💡 **Hobby**: Building tools to improve Developer Experience (DX)
 
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![VueJS](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![CFX FiveM](https://img.shields.io/badge/-CFX_FiveM-05122A?style=flat&logo=fivem)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+---
+
+## 🛠️ Tech Stack
+
+![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react) ![NextJS](https://skillicons.dev/icons?i=nextjs) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![Vue](https://skillicons.dev/icons?i=vue) ![Svelte](https://skillicons.dev/icons?i=svelte) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Prisma](https://skillicons.dev/icons?i=prisma) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![Linux](https://skillicons.dev/icons?i=linux) ![Nginx](https://skillicons.dev/icons?i=nginx) ![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Jest](https://skillicons.dev/icons?i=jest) ![Vitest](https://skillicons.dev/icons?i=vitest) ![Cypress](https://skillicons.dev/icons?i=cypress) ![Vite](https://skillicons.dev/icons?i=vite) ![Webpack](https://skillicons.dev/icons?i=webpack) ![Bun](https://skillicons.dev/icons?i=bun) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Electron](https://skillicons.dev/icons?i=electron) ![Figma](https://skillicons.dev/icons?i=figma) ![jQuery](https://skillicons.dev/icons?i=jquery) ![Alpine.js](https://skillicons.dev/icons?i=alpinejs) ![Pinia](https://skillicons.dev/icons?i=pinia)
+
+---
+
+## 🏆 Key Achievements
+
+### 🚀 **RUSH Platform**
+- **130k+ users** and **6-figure revenue**
+- Revolutionized FiveM ecosystem with professional TypeScript architecture
+- Built high-level framework with dependency injection and observability
+
+### 💡 **Technical Expertise**
+- **System migrations**: Monolithic → Microservices architecture
+- **Clean Architecture & DDD** implementation
+- **Event-driven patterns** for high-performance systems
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinzdev) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasowza@hotmail.com) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/martinzdev)
