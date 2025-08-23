@@ -25,4 +25,4 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinzdev) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasowza@hotmail.com) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/martinzdev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinzdev) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contato@martinz.me) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/martinzdev)
