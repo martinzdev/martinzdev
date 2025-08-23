@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Lucas Martins
 
-## 🚀 Software Engineer & Architect | Entrepreneur
+## 🚀 Software Engineer & Architect
 
 **Founder of RUSH** (130k+ users, 6-figure revenue) | Full-Stack Developer with **4+ years** creating innovative tools and robust systems.
 
