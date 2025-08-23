@@ -21,11 +21,6 @@
 - Revolutionized FiveM ecosystem with professional TypeScript architecture
 - Built high-level framework with dependency injection and observability
 
-### 💡 **Technical Expertise**
-- **System migrations**: Monolithic → Microservices architecture
-- **Clean Architecture & DDD** implementation
-- **Event-driven patterns** for high-performance systems
-
 ---
 
 ## 📫 Connect with me
