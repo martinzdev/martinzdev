@@ -17,7 +17,7 @@
 ## 🏆 Key Achievements
 
 ### 🚀 **RUSH Platform**
-- **130k+ users** and **6-figure revenue**
+- **140k+ users** and **6-figure revenue**
 - Revolutionized FiveM ecosystem with professional TypeScript architecture
 - Built high-level framework with dependency injection and observability
 
