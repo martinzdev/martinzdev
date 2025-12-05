@@ -4,7 +4,10 @@
 
 **Founder of RUSH** (130k+ users, 6-figure revenue) | Full-Stack Developer with **4+ years** creating innovative tools and robust systems.
 
-📄 **[View My Resume/CV](https://cdn.rushgg.com/martinzdev/curriculum.pdf)** | 🌐 **[My Website](https://martinz.me/)**
+🌐 **[Website](https://martinz.me/)**
+
+🇺🇸 **[Resume/CV English](https://cdn.rushgg.com/martinzdev/curriculum_english.pdf)**
+🇧🇷 **[Currículo em Português](https://cdn.rushgg.com/martinzdev/curriculum.pdf)**
 
 💡 **Hobby**: Building tools to improve Developer Experience (DX)
 
