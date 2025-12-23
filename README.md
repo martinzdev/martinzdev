@@ -1,16 +1,25 @@
-# Hi there! 👋 I'm Lucas Martins
+# Hey there! 👋
 
-## 🚀 Software Engineer & Architect
+### I'm [**Lucas Martins**](https://www.martinz.me)
+**Software Engineer** | **Founder of RUSH** | Based in Brazil 🇧🇷
 
-**Founder of RUSH** (130k+ users, 6-figure revenue) | Full-Stack Developer with **4+ years** creating innovative tools and robust systems.
+Full-Stack Developer creating innovative tools and robust systems
 
-🌐 **[Website](https://martinz.me/)**
+---
 
-🇺🇸 **[Resume/CV English](https://cdn.rushgg.com/martinzdev/curriculum_english.pdf)**
-🇧🇷 **[Currículo em Português](https://cdn.rushgg.com/martinzdev/curriculum.pdf)**
+### 📄 Documents
+[🌐 Website](https://martinz.me/) • [🇺🇸 Resume (EN)](https://cdn.rushgg.com/martinzdev/curriculum_english.pdf) • [🇧🇷 Currículo (PT)](https://cdn.rushgg.com/martinzdev/curriculum.pdf)
 
-💡 **Hobby**: Building tools to improve Developer Experience (DX)
+### 💡 Current Focus
+Building tools to improve **Developer Experience (DX)**
 
+---
+
+## 🏆 Key Achievements
+
+### 🚀 **RUSH Platform**
+- **140k+ users** and **6-figure revenue**
+- Built high-level framework with dependency injection and observability
 ---
 
 ## 🛠️ Tech Stack
@@ -19,15 +28,8 @@
 
 ---
 
-## 🏆 Key Achievements
-
-### 🚀 **RUSH Platform**
-- **140k+ users** and **6-figure revenue**
-- Revolutionized FiveM ecosystem with professional TypeScript architecture
-- Built high-level framework with dependency injection and observability
-
----
-
 ## 📫 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinzdev) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contato@martinz.me) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/martinzdev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinzdev) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contato@martinz.me) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/martinzdev)
