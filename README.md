@@ -1,6 +1,7 @@
-# Hey there! 👋
+<h1 align="left">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=MonaSansVF&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+there!+I'm+Lucas+Martins+👋;Software+Engineer;FullStack+Developer" />
+</h1>
 
-### I'm [**Lucas Martins**](https://www.martinz.me)
 **Software Engineer** | **Founder of RUSH** | Based in Brazil 🇧🇷
 
 Full-Stack Developer creating innovative tools and robust systems
