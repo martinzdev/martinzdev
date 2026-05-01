@@ -1,5 +1,6 @@
-
----
+<a href="https://martinz.me">
+  <img src="https://www.martinz.me/og/github-card.svg?variant=slate" alt="Lucas Martins" width="100%" />
+</a>
 
 ### 📄 Documents
 [🌐 Website](https://martinz.me/) • [🇺🇸 Resume (EN)](https://cdn.rushgg.com/martinzdev/curriculum_english.pdf) • [🇧🇷 Currículo (PT)](https://cdn.rushgg.com/martinzdev/curriculum.pdf)
