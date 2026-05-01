@@ -5,16 +5,20 @@
 ### 📄 Documents
 [🌐 Website](https://martinz.me/) • [🇺🇸 Resume (EN)](https://cdn.rushgg.com/martinzdev/curriculum_english.pdf) • [🇧🇷 Currículo (PT)](https://cdn.rushgg.com/martinzdev/curriculum.pdf)
 
+---
+
 ### 💡 Current Focus
-Building tools to improve **Developer Experience (DX)**
+Focused on **Software Architecture** and **Cloud** — designing scalable systems, distributed infrastructure, and cloud-native solutions.
 
 ---
 
 ## 🏆 Key Achievements
 
-### 🚀 **RUSH Platform**
+### 🚀 RUSH Platform
 - **140k+ users** and **6-figure revenue**
-- Built high-level framework with dependency injection and observability
+- Built a high-level framework with **dependency injection** and **observability**
+- Architected the full backend infrastructure: queues, monitoring, CI/CD, and multi-tenant support
+
 ---
 
 ## 🛠️ Tech Stack
@@ -25,6 +29,6 @@ Building tools to improve **Developer Experience (DX)**
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinzdev) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contato@martinz.me) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinzdev)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contato@martinz.me)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/martinzdev)
