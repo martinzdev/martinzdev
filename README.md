@@ -15,7 +15,7 @@ Focused on **Software Architecture** and **Cloud** — designing scalable system
 ## 🏆 Key Achievements
 
 ### 🚀 RUSH Platform
-- **140k+ users** and **6-figure revenue**
+- **140k+ users**
 - Built a high-level framework with **dependency injection** and **observability**
 - Architected the full backend infrastructure: queues, monitoring, CI/CD, and multi-tenant support
 
