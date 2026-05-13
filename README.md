@@ -3,7 +3,7 @@
 </a>
 
 ### 📄 Documents
-[🌐 Website](https://martinz.me/) • [🇺🇸 Resume (EN)](https://cdn.rushgg.com/martinzdev/curriculum_english.pdf) • [🇧🇷 Currículo (PT)](https://cdn.rushgg.com/martinzdev/curriculum.pdf)
+[🌐 Website](https://martinz.me/) • [🇺🇸 Resume (EN)](https://www.martinz.me/resume/en) • [🇧🇷 Currículo (PT)](https://www.martinz.me/resume/br)
 
 ---
 
